@@ -1,0 +1,11 @@
+# Function dependencies
+Flask
+line-bot-sdk
+gspread
+pandas
+matplotlib
+seaborn
+gunicorn
+google-cloud-storage
+google-cloud-logging
+google-cloud-secret-manager
