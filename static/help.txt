@@ -1,0 +1,10 @@
+功能介紹
+[:start] -> rich menu
+[:link] -> link sheet
+[:recw] -> record workout
+[:recf] -> record food
+[:post] -> post quest
+[:prog] -> quest progress
+[:sum] -> records summary
+
+請先點選[link sheet]按鈕，連結自己的 google 試算表，即可開始記錄於表中。
